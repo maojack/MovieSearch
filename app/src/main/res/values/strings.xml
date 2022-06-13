@@ -5,7 +5,7 @@
     <string name="ph_movie_year">Year</string>
     <string name="ph_movie_id">IMDB</string>
     <string name="ph_movie_plot">Plot: \n</string>
-    <string name="text_blank_list">Let\'s find some movie!</string>
+    <string name="text_blank_list">Let\'s find some movies!</string>
     <string name="text_too_many_result">Too many results!</string>
 
 
